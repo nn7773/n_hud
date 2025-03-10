@@ -1,7 +1,7 @@
 -- Hud
 local serverName = "NN.TEST - Roleplay v1.0.0" -- Server name
 local position = {x = 0.48, y = 0.97} 
-local scale = 0.35 
+local scale = 0.35
 local playerCount = 0
 
 RegisterNetEvent('updatePlayerCount')
